@@ -19,7 +19,7 @@ body {
     background-color: #F7F4EF;
     color: #2F2F2F;
     display: grid;
-    grid-template-column: 1fr;
+    grid-template-columns: 1fr;
 }
 
 header {
